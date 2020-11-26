@@ -1,1 +1,0 @@
-2020_hanium_AI_Tour_Full_stack_my_part

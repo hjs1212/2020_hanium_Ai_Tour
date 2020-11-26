@@ -1,0 +1,25 @@
+.mapping {
+    padding-top: 0px;
+}
+
+.dg-map-area{
+    float: left;
+    width: 100%;
+    border:1px solid #dcdcdc;
+    margin:30px 0 12px;
+}
+
+.dg-map{
+    text-align: center;
+    background: #f7f5f2;
+}
+
+.dg-map svg{
+    margin:65px 0 0;
+}
+
+.dg-map-in{
+    width: 50%;
+    float: left;
+    height: 540px;
+}
